@@ -1,3 +1,5 @@
+package info;
+
 public class Data {
     private int height;
     private int weight;
