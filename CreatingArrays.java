@@ -9,6 +9,7 @@ public class CreatingArrays {
         int r = scanner.nextInt();
         System.out.println("Вы создали массив с размерами " +"["+u+"]"+"["+r+"]");
         Data[][] q = new Data[u][r];
+        // TODO: 25.11.2022 23443 3 23
         System.out.println("Введи данные в формате \"x x x\"");
         scanner.nextLine();
         for (int i = 0; i < q.length; i++) {
